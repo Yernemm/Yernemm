@@ -1,5 +1,6 @@
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://yernemm.github.io/images/yernemmtext.png"></img>
-
+<p align="center">
+  <img src="https://yernemm.github.io/images/yernemmtext.png"></img>
+</p>
 # Hi there!
 
 This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so I don't document most of it (and I started using private repos for a lot of them!)
