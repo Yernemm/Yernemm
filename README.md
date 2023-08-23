@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width=50%;" src="https://yernemm.github.io/images/yernemmtext2.png" alt="Yernemm" ></img>
+  <img width="553" height="100" src="https://yernemm.github.io/images/yernemmtext2.png" alt="Yernemm" ></img>
 </p>
 
 # Hi there!
