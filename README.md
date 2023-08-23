@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yernemm.github.io/images/yernemmtext.png" alt="Yernemm" ></img>
+  <img src="https://yernemm.github.io/images/yernemmtext2.png" alt="Yernemm" ></img>
 </p>
 
 # Hi there!
