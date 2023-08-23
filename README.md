@@ -1,4 +1,4 @@
-<img src="https://yernemm.github.io/images/yernemmtext.png"></img>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://yernemm.github.io/images/yernemmtext.png"></img>
 
 # Hi there!
 
