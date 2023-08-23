@@ -1,6 +1,6 @@
 # Hi there!
 
-This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so I don't document a lot of it (and I started uing private repos for a lot of stuff)
+This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so I don't document a lot of it (and I started using private repos for a lot of them!)
 
 Here's what you'll likely find:
 * Node.js bots and electron apps
