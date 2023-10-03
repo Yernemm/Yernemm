@@ -24,4 +24,3 @@ I haven't been maintaining a lot of my older stuff unfortunately.
 Current projects I'm interested in working on:
 * Future game jams maybe?
 * [VRC Photo Manager](https://github.com/Yernemm/VRC-Photo-Manager)
-* Trying to figure out Baldur's Gate 3 modding
