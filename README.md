@@ -11,6 +11,8 @@ Here's what you'll likely find:
 * Miscellaneous Python scripts
 * Maybe some Unity games
 
+My website: https://yernemm.xyz/
+
 ---
 
 ## Recent Projects:
@@ -26,8 +28,6 @@ Made for GMTK Game Jam 2023 with a small team, it's a puzzle game about swapping
 A desktop app made with Node.js, Electron and React. Detects photos taken in VRChat, automatically uploads to a Discord channel, detects and scans QR codes, features VRCX support for sending instance information.
 
 ---
-
-Most of my web projects are hosted over at https://yernemm.xyz/ (I am working on rebuilding this site, it hasn't been updated in a couple of years...)
 
 My games are usually available on https://yernemm.itch.io/ 
 
