@@ -4,7 +4,7 @@
 
 # Hi there!
 
-This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so I don't document most of it (and I started using private repos for a lot of them!)
+This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so I don't document most of it and not everything is public.
 
 Here's what you'll likely find:
 * Node.js bots and electron apps
