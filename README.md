@@ -4,14 +4,14 @@
 
 # Hi there!
 
-This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so I don't document most of it and not everything is public.
+This is my personal GitHub that I mainly use to host various projects I'm working on. Mostly just hobby stuff so not everything is documented :^)
 
 Here's what you'll likely find:
 * Node.js bots and electron apps
 * Miscellaneous Python scripts
 * Maybe some Unity games
 
-My website: https://yernemm.xyz/
+(Work in Progress) My website: https://yernemm.xyz/
 
 ---
 
