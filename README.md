@@ -17,6 +17,14 @@ Here's what you'll likely find:
 
 ## Recent Projects:
 
+### [Biovessel](https://yernemm.itch.io/biovessel)
+
+A ship-building game for GMTK Game Jam 2024
+
+<img height="200" src="https://img.itch.zone/aW1hZ2UvMjkxMzIzMS8xNzUxMTc4Mi5wbmc=/original/Cn2yUQ.png" alt="Biovessel Screenshot 1" ></img>
+<img height="200" src="https://img.itch.zone/aW1hZ2UvMjkxMzIzMS8xNzQ2MDU1NC5wbmc=/original/1vyZOz.png" alt="Biovessel Screenshot 2" ></img>
+
+
 ### Attack of the Teves
 
 A top-down game made for Ludum Dare 55
