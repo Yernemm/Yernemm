@@ -11,7 +11,7 @@ Here's what you'll likely find:
 * Miscellaneous Python scripts
 * Maybe some Unity games
 
-## Visit my website for more info: https://yernemm.xyz/
+# Visit my website for more projects: https://yernemm.xyz/
 
 ---
 
